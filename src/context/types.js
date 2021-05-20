@@ -1,0 +1,2 @@
+export const FETCH_ALL_SHIPS = 'FETCH_ALL_SHIPS';
+export const SET_CURRENT = 'SET_CURRENT';
